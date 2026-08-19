@@ -89,21 +89,21 @@ My current focus is on privacy-first developer tools, local LLM workflows, RAG p
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/elvisdev2280">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=elvisdev2280&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=00D9FF&icon_color=8B5CF6&text_color=64748B&bg_color=00000000" alt="Elvis's GitHub statistics" />
+  <a href="https://github.com/elvis2280">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=elvis2280&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=00D9FF&icon_color=8B5CF6&text_color=64748B&bg_color=00000000" alt="Elvis's GitHub statistics" />
   </a>
-  <a href="https://github.com/elvisdev2280">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisdev2280&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=64748B&bg_color=00000000" alt="Most-used languages in public repositories" />
+  <a href="https://github.com/elvis2280">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis2280&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=64748B&bg_color=00000000" alt="Most-used languages in public repositories" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=elvisdev2280&theme=transparent&hide_border=true&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=64748B&dates=64748B&currStreakNum=8B5CF6&sideNums=8B5CF6&stroke=334155" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=elvis2280&theme=transparent&hide_border=true&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=64748B&dates=64748B&currStreakNum=8B5CF6&sideNums=8B5CF6&stroke=334155" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisdev2280&bg_color=00000000&color=64748B&line=8B5CF6&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvis2280&bg_color=00000000&color=64748B&line=8B5CF6&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
   </a>
 </p>
 
@@ -111,9 +111,9 @@ My current focus is on privacy-first developer tools, local LLM workflows, RAG p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvisdev2280/elvisdev2280/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elvisdev2280/elvisdev2280/output/github-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/elvisdev2280/elvisdev2280/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvis2280/elvis2280/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elvis2280/elvis2280/output/github-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/elvis2280/elvis2280/output/github-snake.svg" />
   </picture>
 </p>
 
